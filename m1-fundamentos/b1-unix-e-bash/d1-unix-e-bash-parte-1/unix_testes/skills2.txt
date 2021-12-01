@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Shell
+Linux
+Ubuntu
+Boot
+Terminal
